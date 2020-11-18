@@ -61,7 +61,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="214" />
     <option name="y" value="7" />
     <option name="width" value="1400" />
@@ -114,15 +117,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605676411949</updated>
-      <workItem from="1605676413165" duration="353000" />
+      <workItem from="1605676413165" duration="1615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353000" />
+    <option name="totallyTimeSpent" value="1615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="214" y="7" width="1400" height="1000" extended-state="0" />
+    <frame x="214" y="7" width="1400" height="1000" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25820896" />
